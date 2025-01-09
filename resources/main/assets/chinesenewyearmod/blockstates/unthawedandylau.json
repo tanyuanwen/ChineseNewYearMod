@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "chinesenewyearmod:block/ice"
+      },
+      {
+        "model": "chinesenewyearmod:block/ice",
+        "y": 90
+      },
+      {
+        "model": "chinesenewyearmod:block/ice",
+        "y": 180
+      },
+      {
+        "model": "chinesenewyearmod:block/ice",
+        "y": 270
+      }
+    ]
+  }
+}

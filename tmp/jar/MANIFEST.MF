@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: chinesenewyearmod
+Specification-Vendor: TYW
+Specification-Version: 1
+Implementation-Title: ChineseNewYearMod
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: TYW
+Implementation-Timestamp: 2025-01-09T21:20:17+0800
+
